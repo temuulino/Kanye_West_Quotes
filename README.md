@@ -1,2 +1,4 @@
 # Kanye_West_Quotes
-Created with CodeSandbox
+
+Connects with kanye_rest api to show random Kanye West quotes when clicked.
+
